@@ -1,7 +1,7 @@
 ### Hi there 👋
 🌱 My name is M Bintang Syawal, and I am currently a student at Politeknik Negeri Jakarta. I have a strong interest in front-end programming and find immense joy in creating visually appealing and user-friendly interfaces for websites and applications.
 
-With my dedication to front-end programming and my eagerness to learn and grow, I am confident in my ability to make a significant impact in the field of web development.
+With my dedication to front-end programming and my eagerness to learn and grow, I am confident in my ability to make a significant impact in the field of web development. ✨
 
 
 <!--
