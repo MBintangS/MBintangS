@@ -9,4 +9,7 @@
 <a href="https://instagram.com/bisyaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bisyaw" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbintangs&show_icons=true&locale=en&layout=compact" alt="mbintangs" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbintangs&show_icons=true&locale=en&layout=compact&bg_color=000000&text_color=ffffff" alt="mbintangs" />
+</p>
+
