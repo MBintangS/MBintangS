@@ -1,20 +1,12 @@
-### Hi there 👋
-🌱 My name is M Bintang Syawal, and I am currently a student at Politeknik Negeri Jakarta. I have a strong interest in front-end programming and find immense joy in creating visually appealing and user-friendly interfaces for websites and applications.
+<h1 align="center">Hi 👋, I'm M Bintang Syawal</h1>
+<h3 align="center">Strong interest in front-end programming and find immense joy in creating visually appealing and user-friendly interfaces for websites and applications.</h3>
 
-With my dedication to front-end programming and my eagerness to learn and grow, I am confident in my ability to make a significant impact in the field of web development. ✨
+- 📫 How to reach me **muhamadbintang3012@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mbintangsyawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbintangsyawal" height="30" width="40" /></a>
+<a href="https://instagram.com/bisyaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bisyaw" height="30" width="40" /></a>
+</p>
 
-<!--
-**MBintangS/MBintangS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mbintangs&show_icons=true&locale=en&layout=compact" alt="mbintangs" /></p>
